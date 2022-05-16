@@ -6,4 +6,4 @@ In this project, we first develop code for an image classifier built with PyTorc
 
 [Completion Certificate](https://graduation.udacity.com/nd089)
 
-![](C:\Users\user\Desktop\download.png "certificate")
+![](C:/Users/user/Desktop/download.png "certificate")
